@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="img/Badge-Conversor.png" width="200" />
+</div>
+
+
 📘 Conversor de Monedas — Proyecto Java
 
 Este proyecto es un conversor de monedas en Java, desarrollado como parte del programa ONE.
