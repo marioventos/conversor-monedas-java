@@ -28,3 +28,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# --- Ignorar configuración de IntelliJ IDEA ---
+.idea/
+
+# --- Ignorar librerías locales ---
+libs/
+
+# --- Ignorar carpetas de compilación ---
+out/
+bin/
+
+# --- Ignorar archivos del sistema ---
+.DS_Store
